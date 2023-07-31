@@ -1,0 +1,29 @@
+title,button,body,div.container {
+    text-align: center;
+   
+}
+
+ol.list, ul{
+    display: inline-block;
+    text-align: left;
+}
+
+h1,#header {
+    color: #ff79cb;
+}
+
+a {
+    color: #50fa7b;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+body {
+    background-color: #282a36;
+    color: #f1fa8c;
+
+}
+
